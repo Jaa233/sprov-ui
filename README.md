@@ -57,3 +57,19 @@ https://t.me/sprov_blog
 
 # Telegram 频道
 https://t.me/sprov_channel
+
+
+
+# 小白安装过程
+
+```
+apt-get install git
+
+git clone https://github.com/Jaa233/sprov-ui
+
+cd sprov-ui
+
+bash install.sh
+
+bash /root/sprov-ui/sprov-ui.sh && chmod +x /usr/bin/sprov-ui
+```
